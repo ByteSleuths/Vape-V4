@@ -9,8 +9,7 @@ Ghost Client Minecraft
 
 3.Launch Lunar client or 1.8.9 vanilla
 
-4.Click on vape.bat and wait till it inject
+4.Click on Vape-Loader.exe and wait till it inject
 
-5.And Voila Vape-V4.10 injected
 
-If you have any problem regarding this crack just ask me and i will gladly help you.
+
