@@ -23,98 +23,98 @@ Ghost Client Minecraft
 
 
 ### Combat
-- AimAssist
-- AutoClicker
-- Reach
-- SilentAura
-- HitSelect
-- Velocity
-- Sprint
-- WTap
+- AimAssist  ✅
+- AutoClicker  ✅
+- Reach  ✅
+- SilentAura  ✅
+- HitSelect  ✅
+- Velocity  ✅
+- Sprint  ✅
+- WTap  ✅
 
 
 ### Render
-- Search
-- NameTags
-- Tracers
-- StorageESP
-- ESP
-- AntiDebuff
-- Arrows
-- Chams
-- Fullbright
-- ItemESP
-- Projectiles
-- PropHunt
-- SpawnerFinder
-- Trajectories
+- Search  ✅
+- NameTags  ✅
+- Tracers  ✅
+- StorageESP  ✅
+- ESP  ✅
+- AntiDebuff  ✅
+- Arrows  ✅
+- Chams  ✅
+- Fullbright  ✅
+- ItemESP  ✅
+- Projectiles  ✅
+- PropHunt  ✅
+- SpawnerFinder  ✅
+- Trajectories  ✅
 
 
 ### Utility
-- Scaffold
-- ChestSteal
-- ArmorSwitch
-- AutoArmor
-- AutoHeal
-- AutoPearl
-- InvCleaner
-- Panic
-- ThrowDebuff
-- FakeLag
-- Blink
-- Throwpot
-- Refill
+- Scaffold  ✅
+- ChestSteal  ✅
+- ArmorSwitch  ✅
+- AutoArmor  ✅
+- AutoHeal  ✅
+- AutoPearl  ✅
+- InvCleaner  ✅
+- Panic  ✅
+- ThrowDebuff  ✅
+- FakeLag  ✅
+- Blink  ✅
+- Throwpot  ✅
+- Refill  ✅
 
 
 ### World
-- AutoTool
-- ChestSteal
-- FastPlace
-- FreeCam
-- MLG
+- AutoTool  ✅
+- ChestSteal  ✅
+- FastPlace  ✅
+- FreeCam  ✅
+- MLG  ✅
 
 
 ### Other features
-- Internal GUI
-- External GUI
-- Profiles
-- Friends
-- Macros
-- Text GUI
-- Duel Info
-- Target Info
-- Radar
-- Rearview
+- Internal GUI  ✅
+- External GUI  ✅
+- Profiles  ✅
+- Friends  ✅
+- Macros  ✅
+- Text GUI  ✅
+- Duel Info  ✅
+- Target Info  ✅
+- Radar  ✅
+- Rearview  ✅
 
 
 ### Legit Mods
-- Freelook
-- NoClickDelay
-- KeyStrokes
-- Clock
-- Potion Status
-- Armor Status
-- Compass
-- Time Changer
-- Coords
-- FPS
-- Reach Display
-- Time Changer
-- Inventory Blur
-- Clear Water
-- Block Overlay
-- Hit Color
+- Freelook  ✅
+- NoClickDelay  ✅
+- KeyStrokes  ✅
+- Clock  ✅
+- Potion Status  ✅
+- Armor Status  ✅
+- Compass  ✅
+- Time Changer  ✅
+- Coords  ✅
+- FPS  ✅
+- Reach Display  ✅
+- Time Changer  ✅
+- Inventory Blur  ✅
+- Clear Water  ✅
+- Block Overlay  ✅
+- Hit Color  ✅
 
 
 ### Blatant  
-- Killaura
-- SafeWalk
-- Fly
-- HitBoxes
-- InvWalk
-- KeepSprint
-- NoFall
-- Timer
+- Killaura  ✅
+- SafeWalk  ✅
+- Fly  ✅
+- HitBoxes  ✅
+- InvWalk  ✅
+- KeepSprint  ✅
+- NoFall  ✅
+- Timer  ✅
 
 
 
